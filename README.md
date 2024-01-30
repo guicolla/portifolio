@@ -1,10 +1,10 @@
 <h1 align="center">
-  💻<br>Portfólio - Iuri Silva
+  💻<br>Portfólio - Guilherme Colla
 </h1>
 
 ![Resultado final do projeto](assets/image/preview.png)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
@@ -36,10 +36,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://github.com/guicolla">
+        <img src="https://avatars.githubusercontent.com/u/28612713" width="100px;" alt="Foto do Guilherme Colla no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Guilherme Colla</b>
         </sub>
       </a>
     </td>
